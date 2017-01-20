@@ -2,3 +2,4 @@
 1. numbers and math punctions
 2. strings
 3. list
+4. dictionary
