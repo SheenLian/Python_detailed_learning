@@ -3,3 +3,4 @@
 2. strings
 3. list
 4. dictionary
+5. date and time objects
