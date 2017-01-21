@@ -4,3 +4,4 @@
 3. list
 4. dictionary
 5. date and time objects
+6. exceptions
