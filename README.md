@@ -5,3 +5,4 @@
 4. dictionary
 5. date and time objects
 6. exceptions
+7. networking, server and client using socket modeule, when any of these two terminal type stop, connection terminated
