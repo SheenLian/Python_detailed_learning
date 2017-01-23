@@ -7,3 +7,4 @@
 6. exceptions
 7. networking, server and client using socket modeule, when any of these two terminal type stop, connection terminated
 8. sending email using gmail server (successfully sent a text message)
+9. threading: high level threading and queue
